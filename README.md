@@ -7,7 +7,6 @@ I forked this too edited the css so yea I used jakes logo because i could not fi
 I just decided to through this together, feel free to use this in whatever you want.
 Hopefully someone will find some kind of use for it haha.
 
-**Preview** [here](https://hyperz.dev/landingpagedemo1/index.html)
 
 ---
 
