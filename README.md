@@ -1,5 +1,5 @@
 ### landing-page
-
+I forked this too edited the css so yea I used jakes logo because i could not find mine its hyperz work tho lol have a nice night yall
 ---
 
 ### What is this?
